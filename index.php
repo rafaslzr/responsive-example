@@ -14,7 +14,7 @@
                 <div class="botonescabe">
                     <ul class="listaheader">
                         <li>PROYECTOS</li>
-                        <li>¿PORQUÉ KKIBO?</li>
+                        <li>¿PORQUÉ KIBO?</li>
                         <li>CONTACTA</li>
                         <li><img src="images/menu-mail.png" alt=""/></li>
                         <li><img src="images/menu-phone.png" alt=""/></li> 

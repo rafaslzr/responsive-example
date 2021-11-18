@@ -1,1 +1,1 @@
-responsive-example
+Responsive-example
